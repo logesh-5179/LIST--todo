@@ -1,0 +1,30 @@
+.cont{
+    width:40%;
+    margin: 200px;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+.card-body .b1{
+    background-color:rgb(43, 168, 226);
+    border-radius: 18px;
+    color: rgb(252, 253, 254);
+}
+.card-body .b2{
+    background-color: brown;
+    border-radius: 18px;
+     color: aliceblue;
+}
+.card-body .b3{
+    background-color: green;
+    border-radius: 18px;
+     color: aliceblue;
+}
+.card-body button{
+    background-color: rgb(65, 215, 215);
+    border-radius: 17px;
+     color: aliceblue;
+}
+body{
+    background-color: rgb(136, 184, 136);
+}
